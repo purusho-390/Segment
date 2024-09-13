@@ -4,7 +4,7 @@
 
 The Segment Component is a React-based UI for managing and saving data segments. This component allows users to create, edit, and manage segments by adding schemas to them. It includes functionality for adding both pre-defined and custom schemas, and it provides options for saving or canceling changes.
 
-![Segment UI Component](./images/segment-component-overview.png)  <!-- Add an overview image -->
+![Segment UI Component](./images/1.png)  <!-- Add an overview image -->
 
 
 ## Features

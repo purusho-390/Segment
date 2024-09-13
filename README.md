@@ -18,14 +18,16 @@ The Segment Component is a React-based UI for managing and saving data segments.
 
 To get started with the Segment Component, follow these instructions:
 
-### Prerequisites
-
-Ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (version 14 or later)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
-
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/segment.git
+
+2. Navigate to the project directory:
+      ```bash
+   cd segment
+
+3.Install the dependencies:
+   ```bash
+   npm install
